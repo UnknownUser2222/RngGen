@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="fact1">The Taj Mahal is located in India.</string>
+    <string name="fact2">Did you know that the pyramids of Giza were built over 3000 years ago?</string>
+    <string name="fact3">The statue of liberty is built based on a French woman!</string>
+</resources>
